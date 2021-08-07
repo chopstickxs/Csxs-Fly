@@ -1,0 +1,11 @@
+name: CsxsFly
+version: ${project.version}
+main: club.csxs.csxsfly.CsxsFly
+authors: [ chopstickxs ]
+description: A fly command for 1.12 spigot
+website: https://github.com/chopstickxs/Csxs-Fly
+
+commands:
+  fly:
+    description: Allow flight
+    usage: /<command>
